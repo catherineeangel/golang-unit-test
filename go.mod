@@ -3,8 +3,7 @@ module github.com/catherineeangel/golang-unit-test.git
 go 1.24.0
 
 require (
-	github.com/catherineeangel/go-print-slice v1.0.3
-	github.com/catherineeangel/golang-exercise v0.0.0-20250220150802-bbcf89b4943a
+	github.com/catherineeangel/go-print-slice v1.0.5
 	github.com/stretchr/testify v1.10.0
 )
 

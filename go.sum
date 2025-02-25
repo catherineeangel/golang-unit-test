@@ -1,7 +1,5 @@
-github.com/catherineeangel/go-print-slice v1.0.3 h1:uzEEXF+d5218yfZYOMF73tDUsBrkTbIsy+67fzhKq1Y=
-github.com/catherineeangel/go-print-slice v1.0.3/go.mod h1:UTN2SZloGC1iuslzAhQwnmd/DI5JiqZ7+qPP/xyVrVY=
-github.com/catherineeangel/golang-exercise v0.0.0-20250220150802-bbcf89b4943a h1:H0yFfrJjpxwyN+F4KKAn8Rcmcbac9VsgQLACDLdrRa8=
-github.com/catherineeangel/golang-exercise v0.0.0-20250220150802-bbcf89b4943a/go.mod h1:Y1ECB45OMH1UG2IUXjLHiA8Pogc0noL/cHS6sClNE38=
+github.com/catherineeangel/go-print-slice v1.0.5 h1:spjBtiln9TWccm5f0vpNTpZ5SWrQ60YksoOWKpIyn8w=
+github.com/catherineeangel/go-print-slice v1.0.5/go.mod h1:UTN2SZloGC1iuslzAhQwnmd/DI5JiqZ7+qPP/xyVrVY=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
