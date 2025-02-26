@@ -17,13 +17,11 @@ func Soal07(n int) (result [][]int) {
 	for row := range mid + 1 {
 		for col := range result[row] {
 			if row+col >= mid && col-row <= mid {
-				fmt.Println(row, col)
 				//biar kebolak balik
 				if row%2 == 1 {
 					result[row][col] = num
 					result[n-1-row][col] = num // Mirror to lower half
 				} else {
-					fmt.Println("even col masuk", row, col)
 					result[row][n-1-col] = num
 					result[n-1-row][n-1-col] = num // mirror ke lower half
 				}
